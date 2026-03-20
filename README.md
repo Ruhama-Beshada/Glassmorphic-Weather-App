@@ -56,4 +56,4 @@ node server.js
 ## 📄 License
 
 **This project is licensed under the MIT License – feel free to use, modify, and share!**
-Check out the live app here: [[Glassmorphic Weather App](https://your-vercel-link.vercel.app](https://glassmorphic-weather-app-werl.vercel.app/))
+Check out the live app here:https://glassmorphic-weather-app-werl-b0gs29trn.vercel.app/
