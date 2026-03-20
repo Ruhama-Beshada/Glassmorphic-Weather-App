@@ -21,7 +21,7 @@ A minimal, modern weather app built with HTML, CSS (Glassmorphism UI), JavaScrip
 
 1. **Clone the repo**
 ```bash
-git clone https://github.com/<your-username>/glassmorphic-weather-app.git
+git clone https://github.com/Ruhama-Beshada/Glassmorphic-Weather-App.git
 cd glassmorphic-weather-app
 ```
 2. **Install dependencies**
