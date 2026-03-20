@@ -37,7 +37,7 @@ node server.js
 ```
 ## 🖼️ Screenshot
 
-![Glassmorphic Weather App]ssets/sreenshot.png)
+![Screenshot](https://raw.githubusercontent.com/Ruhama-Beshada/Glassmorphic-Weather-App/main/assets/sreenshot.png)
 
 ## ⚡ Usage
 
